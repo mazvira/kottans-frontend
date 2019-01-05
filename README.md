@@ -4,3 +4,4 @@
 ## Intro to HTML and CSS
 ## Responsive Web Design
 ## JS Basics
+## DOM
