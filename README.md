@@ -5,3 +5,5 @@
 ## Responsive Web Design
 ## JS Basics
 ## DOM
+## A Tiny JS World
+Reviewed and approved by @OleksiyRudenko
